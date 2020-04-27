@@ -37,4 +37,4 @@ function loopAString(string) {
 // Your code is here
 
 
-
+var x=0 
